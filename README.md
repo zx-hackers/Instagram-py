@@ -1,4 +1,4 @@
 # Instagram-py
 
 # Tor configurasion
-remove "#" after #ControlPort 9051
+remove "#" beforea #ControlPort 9051

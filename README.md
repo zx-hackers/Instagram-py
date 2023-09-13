@@ -1,4 +1,5 @@
 # Instagram-py
 
 # Tor configurasion
-remove "#" beforea #ControlPort 9051
+1. sudo nano /etc/tor/torrc
+2. remove "#" beforea #ControlPort 9051
